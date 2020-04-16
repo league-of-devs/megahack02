@@ -3,22 +3,21 @@
 ### :fuelpump: Project stack
 
 - Database
-  - MySQL
+  - Nothing yet
 - Back-end
-  - NodeJS
+  - Nothing yet
 - Front-end
-  - ReactJS
+  - Nothing yet
 - Mobile
-  - React Native
+  - Nothing yet
 
 ### :file_folder: Available docs
 
 - :orange_book: API docs: ``Coming soon``
-- :closed_book: Database:
-  - :open_book: [SQL creation file](https://github.com/league-of-devs/lendy-docs/blob/master/database/lendy.sql)
 - :green_book: Wireframes:
-  - :open_book: [Web](https://github.com/league-of-devs/lendy-docs/blob/master/wireframes/Prot%C3%B3tipos%20-%20Web.pdf)
-  - :open_book: [Mobile](https://github.com/league-of-devs/lendy-docs/blob/master/wireframes/Prot%C3%B3tipos%20-%20App.pdf)
+  - :closed_book: Database: ``Coming soon``
+  - :closed_book: Web ``Coming soon``
+  - :closed_book: Mobile ``Coming soon``
 - :blue_book: Requirements: ``Coming soon``
 
 ### :coffee: Credits
