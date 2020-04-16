@@ -19,7 +19,7 @@
 - :green_book: Marketing:
   - :closed_book: Videos: ``Coming soon``
   - :closed_book: Forms: ``Coming soon``
-- :yellow_book: UX:
+- :red_book: UX:
   - :closed_book: Mockups: ``Coming soon``
   - :closed_book: Diagrams: ``Coming soon``
 - :pink_book: Dev:
