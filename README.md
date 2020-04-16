@@ -16,7 +16,7 @@
 - :orange_book: Business:
   - :closed_book: Business plan: ``Coming soon``
   - :closed_book: Market research: ``Coming soon``
-- :purple_book: Marketing:
+- :green_book: Marketing:
   - :closed_book: Videos: ``Coming soon``
   - :closed_book: Forms: ``Coming soon``
 - :blue_book: UX:
